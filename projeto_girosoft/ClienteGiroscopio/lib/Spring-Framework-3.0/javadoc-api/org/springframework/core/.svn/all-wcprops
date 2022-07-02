@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core
+END
+Constants.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/Constants.html
+END
+BridgeMethodResolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/BridgeMethodResolver.html
+END
+AliasRegistry.html
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/AliasRegistry.html
+END
+ConfigurableObjectInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/ConfigurableObjectInputStream.html
+END
+AttributeAccessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/AttributeAccessor.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/package-tree.html
+END
+NamedInheritableThreadLocal.html
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/NamedInheritableThreadLocal.html
+END
+ControlFlowFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/ControlFlowFactory.html
+END
+OrderComparator.html
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/OrderComparator.html
+END
+Conventions.html
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/Conventions.html
+END
+ParameterNameDiscoverer.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/ParameterNameDiscoverer.html
+END
+SpringVersion.html
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/SpringVersion.html
+END
+GenericCollectionTypeResolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/GenericCollectionTypeResolver.html
+END
+JdkVersion.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/JdkVersion.html
+END
+ConcurrentMap.html
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/ConcurrentMap.html
+END
+MethodParameter.html
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/MethodParameter.html
+END
+NestedExceptionUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/NestedExceptionUtils.html
+END
+InfrastructureProxy.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/InfrastructureProxy.html
+END
+AttributeAccessorSupport.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/AttributeAccessorSupport.html
+END
+CollectionFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/CollectionFactory.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/package-frame.html
+END
+Ordered.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/Ordered.html
+END
+OverridingClassLoader.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/OverridingClassLoader.html
+END
+PriorityOrdered.html
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/PriorityOrdered.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/package-summary.html
+END
+NamedThreadLocal.html
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/NamedThreadLocal.html
+END
+ErrorCoded.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/ErrorCoded.html
+END
+NestedIOException.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/NestedIOException.html
+END
+PrioritizedParameterNameDiscoverer.html
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/PrioritizedParameterNameDiscoverer.html
+END
+DecoratingClassLoader.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/DecoratingClassLoader.html
+END
+SimpleAliasRegistry.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/SimpleAliasRegistry.html
+END
+LocalVariableTableParameterNameDiscoverer.html
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/LocalVariableTableParameterNameDiscoverer.html
+END
+GenericTypeResolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/GenericTypeResolver.html
+END
+SmartClassLoader.html
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/SmartClassLoader.html
+END
+NestedRuntimeException.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/NestedRuntimeException.html
+END
+NestedCheckedException.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/NestedCheckedException.html
+END
+ConstantException.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/ConstantException.html
+END
+ControlFlow.html
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/core/ControlFlow.html
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/transaction/jta
+END
+JtaAfterCompletionSynchronization.html
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/transaction/jta/JtaAfterCompletionSynchronization.html
+END
+TransactionFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/transaction/jta/TransactionFactory.html
+END
+JtaTransactionManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/transaction/jta/JtaTransactionManager.html
+END
+OC4JJtaTransactionManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/transaction/jta/OC4JJtaTransactionManager.html
+END
+WebSphereUowTransactionManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/transaction/jta/WebSphereUowTransactionManager.html
+END
+ManagedTransactionAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/transaction/jta/ManagedTransactionAdapter.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/transaction/jta/package-frame.html
+END
+SpringJtaSynchronizationAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/transaction/jta/SpringJtaSynchronizationAdapter.html
+END
+UserTransactionAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/transaction/jta/UserTransactionAdapter.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/transaction/jta/package-summary.html
+END
+SimpleTransactionFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/transaction/jta/SimpleTransactionFactory.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/transaction/jta/package-tree.html
+END
+JtaTransactionObject.html
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/transaction/jta/JtaTransactionObject.html
+END
+WebLogicJtaTransactionManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/transaction/jta/WebLogicJtaTransactionManager.html
+END

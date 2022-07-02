@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<ui:composition xmlns:ui="http://java.sun.com/jsf/facelets"
+                xmlns:h="http://java.sun.com/jsf/html"
+                xmlns:f="http://java.sun.com/jsf/core"
+                xmlns:rich="http://richfaces.org/rich">
+
+    <rich:toolBar height="40" itemSeparator="line">
+
+
+                    <rich:toolBarGroup>
+                        <rich:panelMenu >
+                           <rich:panelMenuItem   action="homeUsuario" icon="/resources/images/home.png">Inicio</rich:panelMenuItem>
+                        </rich:panelMenu>
+                    </rich:toolBarGroup>
+
+                    <rich:toolBarGroup>
+                        <rich:panelMenu >
+                           <rich:panelMenuItem   action="teoriaUsuario" icon="/resources/images/teoria.png">Teoria</rich:panelMenuItem>
+                        </rich:panelMenu>
+                    </rich:toolBarGroup>
+
+                    <rich:toolBarGroup>
+                        <rich:panelMenu >
+                            <rich:panelMenuItem   action="experimentoUsuario"  icon="/resources/images/experimento.png">Experimento</rich:panelMenuItem>
+                        </rich:panelMenu>
+                    </rich:toolBarGroup>
+
+                    <rich:toolBarGroup location="right">
+
+
+                       <rich:panelMenu >
+                           <h:commandButton action="#{login.sair}" value="Sair"  style="border-width:1px"/>
+                       </rich:panelMenu>
+
+                       <rich:panelMenu >
+                         <h:commandButton  action="sobre" value="Sobre" style="border-width:1px"/>
+                       </rich:panelMenu>
+
+
+                    </rich:toolBarGroup>
+
+        </rich:toolBar>
+
+   </ui:composition>

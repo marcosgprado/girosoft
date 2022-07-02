@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/portlet/handler
+END
+PortletSessionRequiredException.html
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/portlet/handler/PortletSessionRequiredException.html
+END
+AbstractHandlerMapping.html
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/portlet/handler/AbstractHandlerMapping.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/portlet/handler/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/portlet/handler/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/portlet/handler/package-tree.html
+END
+ParameterHandlerMapping.html
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/portlet/handler/ParameterHandlerMapping.html
+END
+PortletContentGenerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/portlet/handler/PortletContentGenerator.html
+END
+HandlerInterceptorAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/portlet/handler/HandlerInterceptorAdapter.html
+END
+UserRoleAuthorizationInterceptor.html
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/portlet/handler/UserRoleAuthorizationInterceptor.html
+END
+SimplePortletHandlerAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/portlet/handler/SimplePortletHandlerAdapter.html
+END
+AbstractHandlerExceptionResolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/portlet/handler/AbstractHandlerExceptionResolver.html
+END
+WebRequestHandlerInterceptorAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/portlet/handler/WebRequestHandlerInterceptorAdapter.html
+END
+SimpleMappingExceptionResolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/portlet/handler/SimpleMappingExceptionResolver.html
+END
+PortletModeHandlerMapping.html
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/portlet/handler/PortletModeHandlerMapping.html
+END
+AbstractMapBasedHandlerMapping.PortletRequestMappingPredicate.html
+K 25
+svn:wc:ra_dav:version-url
+V 228
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/portlet/handler/AbstractMapBasedHandlerMapping.PortletRequestMappingPredicate.html
+END
+SimplePortletPostProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/portlet/handler/SimplePortletPostProcessor.html
+END
+PortletRequestMethodNotSupportedException.html
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/portlet/handler/PortletRequestMethodNotSupportedException.html
+END
+PortletModeParameterHandlerMapping.html
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/portlet/handler/PortletModeParameterHandlerMapping.html
+END
+AbstractMapBasedHandlerMapping.html
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/portlet/handler/AbstractMapBasedHandlerMapping.html
+END
+ParameterMappingInterceptor.html
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/portlet/handler/ParameterMappingInterceptor.html
+END

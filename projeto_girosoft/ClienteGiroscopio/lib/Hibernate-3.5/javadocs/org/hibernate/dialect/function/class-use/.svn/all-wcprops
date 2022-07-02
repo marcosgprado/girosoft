@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/function/class-use
+END
+ClassicSumFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/function/class-use/ClassicSumFunction.html
+END
+TrimFunctionTemplate.html
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/function/class-use/TrimFunctionTemplate.html
+END
+ConditionalParenthesisFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/function/class-use/ConditionalParenthesisFunction.html
+END
+AvgFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/function/class-use/AvgFunction.html
+END
+ClassicAvgFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/function/class-use/ClassicAvgFunction.html
+END
+ConvertFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/function/class-use/ConvertFunction.html
+END
+StandardSQLFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/function/class-use/StandardSQLFunction.html
+END
+VarArgsSQLFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/function/class-use/VarArgsSQLFunction.html
+END
+NoArgSQLFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/function/class-use/NoArgSQLFunction.html
+END
+AnsiTrimFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/function/class-use/AnsiTrimFunction.html
+END
+TrimFunctionTemplate.Specification.html
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/function/class-use/TrimFunctionTemplate.Specification.html
+END
+AvgWithArgumentCastFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/function/class-use/AvgWithArgumentCastFunction.html
+END
+AbstractAnsiTrimEmulationFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/function/class-use/AbstractAnsiTrimEmulationFunction.html
+END
+SQLFunctionRegistry.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/function/class-use/SQLFunctionRegistry.html
+END
+ClassicCountFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/function/class-use/ClassicCountFunction.html
+END
+CastFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/function/class-use/CastFunction.html
+END
+SQLFunctionTemplate.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/function/class-use/SQLFunctionTemplate.html
+END
+TemplateRenderer.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/function/class-use/TemplateRenderer.html
+END
+DerbyConcatFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/function/class-use/DerbyConcatFunction.html
+END
+NvlFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/function/class-use/NvlFunction.html
+END
+SQLFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/function/class-use/SQLFunction.html
+END
+TrimFunctionTemplate.Options.html
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/function/class-use/TrimFunctionTemplate.Options.html
+END
+AnsiTrimEmulationFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/function/class-use/AnsiTrimEmulationFunction.html
+END
+StandardJDBCEscapeFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/function/class-use/StandardJDBCEscapeFunction.html
+END
+CharIndexFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/function/class-use/CharIndexFunction.html
+END
+PositionSubstringFunction.html
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/function/class-use/PositionSubstringFunction.html
+END

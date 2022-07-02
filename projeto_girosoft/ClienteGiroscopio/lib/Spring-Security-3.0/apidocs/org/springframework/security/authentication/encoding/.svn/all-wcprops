@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/authentication/encoding
+END
+BaseDigestPasswordEncoder.html
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/authentication/encoding/BaseDigestPasswordEncoder.html
+END
+BasePasswordEncoder.html
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/authentication/encoding/BasePasswordEncoder.html
+END
+ShaPasswordEncoder.html
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/authentication/encoding/ShaPasswordEncoder.html
+END
+LdapShaPasswordEncoder.html
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/authentication/encoding/LdapShaPasswordEncoder.html
+END
+PasswordEncoder.html
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/authentication/encoding/PasswordEncoder.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/authentication/encoding/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/authentication/encoding/package-summary.html
+END
+Md4PasswordEncoder.html
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/authentication/encoding/Md4PasswordEncoder.html
+END
+MessageDigestPasswordEncoder.html
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/authentication/encoding/MessageDigestPasswordEncoder.html
+END
+Md5PasswordEncoder.html
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/authentication/encoding/Md5PasswordEncoder.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/authentication/encoding/package-tree.html
+END
+PlaintextPasswordEncoder.html
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/authentication/encoding/PlaintextPasswordEncoder.html
+END

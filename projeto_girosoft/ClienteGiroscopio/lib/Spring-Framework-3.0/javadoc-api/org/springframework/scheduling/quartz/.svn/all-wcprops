@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/scheduling/quartz
+END
+LocalDataSourceJobStore.html
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/scheduling/quartz/LocalDataSourceJobStore.html
+END
+SimpleThreadPoolTaskExecutor.html
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/scheduling/quartz/SimpleThreadPoolTaskExecutor.html
+END
+LocalTaskExecutorThreadPool.html
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/scheduling/quartz/LocalTaskExecutorThreadPool.html
+END
+MethodInvokingJobDetailFactoryBean.html
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/scheduling/quartz/MethodInvokingJobDetailFactoryBean.html
+END
+JobDetailBean.html
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/scheduling/quartz/JobDetailBean.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/scheduling/quartz/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/scheduling/quartz/package-summary.html
+END
+SchedulerAccessorBean.html
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/scheduling/quartz/SchedulerAccessorBean.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/scheduling/quartz/package-tree.html
+END
+JobMethodInvocationFailedException.html
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/scheduling/quartz/JobMethodInvocationFailedException.html
+END
+SchedulerFactoryBean.html
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/scheduling/quartz/SchedulerFactoryBean.html
+END
+DelegatingJob.html
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/scheduling/quartz/DelegatingJob.html
+END
+MethodInvokingJobDetailFactoryBean.MethodInvokingJob.html
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/scheduling/quartz/MethodInvokingJobDetailFactoryBean.MethodInvokingJob.html
+END
+AdaptableJobFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/scheduling/quartz/AdaptableJobFactory.html
+END
+SchedulerAccessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/scheduling/quartz/SchedulerAccessor.html
+END
+JobDetailAwareTrigger.html
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/scheduling/quartz/JobDetailAwareTrigger.html
+END
+SchedulerContextAware.html
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/scheduling/quartz/SchedulerContextAware.html
+END
+SimpleTriggerBean.html
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/scheduling/quartz/SimpleTriggerBean.html
+END
+ResourceLoaderClassLoadHelper.html
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/scheduling/quartz/ResourceLoaderClassLoadHelper.html
+END
+QuartzJobBean.html
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/scheduling/quartz/QuartzJobBean.html
+END
+MethodInvokingJobDetailFactoryBean.StatefulMethodInvokingJob.html
+K 25
+svn:wc:ra_dav:version-url
+V 225
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/scheduling/quartz/MethodInvokingJobDetailFactoryBean.StatefulMethodInvokingJob.html
+END
+CronTriggerBean.html
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/scheduling/quartz/CronTriggerBean.html
+END
+SpringBeanJobFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/scheduling/quartz/SpringBeanJobFactory.html
+END

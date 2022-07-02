@@ -1,0 +1,413 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event
+END
+PreCollectionUpdateEventListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/PreCollectionUpdateEventListener.html
+END
+PreCollectionRecreateEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/PreCollectionRecreateEvent.html
+END
+PostCollectionRemoveEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/PostCollectionRemoveEvent.html
+END
+AbstractCollectionEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/AbstractCollectionEvent.html
+END
+AbstractPreDatabaseOperationEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/AbstractPreDatabaseOperationEvent.html
+END
+PreInsertEventListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/PreInsertEventListener.html
+END
+PostCollectionRecreateEventListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/PostCollectionRecreateEventListener.html
+END
+InitializeCollectionEventListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/InitializeCollectionEventListener.html
+END
+LoadEventListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/LoadEventListener.html
+END
+PreLoadEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/PreLoadEvent.html
+END
+PreCollectionRemoveEventListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/PreCollectionRemoveEventListener.html
+END
+Destructible.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/Destructible.html
+END
+RefreshEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/RefreshEvent.html
+END
+LockEventListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/LockEventListener.html
+END
+PreUpdateEventListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/PreUpdateEventListener.html
+END
+DirtyCheckEventListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/DirtyCheckEventListener.html
+END
+SaveOrUpdateEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/SaveOrUpdateEvent.html
+END
+ReplicateEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/ReplicateEvent.html
+END
+PostDeleteEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/PostDeleteEvent.html
+END
+PostCollectionUpdateEventListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/PostCollectionUpdateEventListener.html
+END
+EvictEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/EvictEvent.html
+END
+FlushEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/FlushEvent.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/package-frame.html
+END
+PreCollectionRecreateEventListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/PreCollectionRecreateEventListener.html
+END
+PostLoadEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/PostLoadEvent.html
+END
+PostCollectionRemoveEventListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/PostCollectionRemoveEventListener.html
+END
+PreLoadEventListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/PreLoadEventListener.html
+END
+MergeEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/MergeEvent.html
+END
+EventSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/EventSource.html
+END
+RefreshEventListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/RefreshEventListener.html
+END
+SaveOrUpdateEventListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/SaveOrUpdateEventListener.html
+END
+PreDeleteEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/PreDeleteEvent.html
+END
+PostInsertEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/PostInsertEvent.html
+END
+AutoFlushEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/AutoFlushEvent.html
+END
+ReplicateEventListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/ReplicateEventListener.html
+END
+PostDeleteEventListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/PostDeleteEventListener.html
+END
+FlushEntityEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/FlushEntityEvent.html
+END
+Initializable.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/Initializable.html
+END
+EvictEventListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/EvictEventListener.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/package-tree.html
+END
+FlushEventListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/FlushEventListener.html
+END
+PostUpdateEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/PostUpdateEvent.html
+END
+PersistEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/PersistEvent.html
+END
+PostLoadEventListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/PostLoadEventListener.html
+END
+DeleteEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/DeleteEvent.html
+END
+AbstractEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/AbstractEvent.html
+END
+PreCollectionUpdateEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/PreCollectionUpdateEvent.html
+END
+MergeEventListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/MergeEventListener.html
+END
+PreInsertEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/PreInsertEvent.html
+END
+PostCollectionRecreateEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/PostCollectionRecreateEvent.html
+END
+InitializeCollectionEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/InitializeCollectionEvent.html
+END
+PreDeleteEventListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/PreDeleteEventListener.html
+END
+LoadEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/LoadEvent.html
+END
+PreCollectionRemoveEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/PreCollectionRemoveEvent.html
+END
+PostInsertEventListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/PostInsertEventListener.html
+END
+AutoFlushEventListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/AutoFlushEventListener.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/package-use.html
+END
+FlushEntityEventListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/FlushEntityEventListener.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/package-summary.html
+END
+LockEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/LockEvent.html
+END
+PreUpdateEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/PreUpdateEvent.html
+END
+DirtyCheckEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/DirtyCheckEvent.html
+END
+PostUpdateEventListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/PostUpdateEventListener.html
+END
+PersistEventListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/PersistEventListener.html
+END
+PostCollectionUpdateEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/PostCollectionUpdateEvent.html
+END
+LoadEventListener.LoadType.html
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/LoadEventListener.LoadType.html
+END
+EventListeners.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/EventListeners.html
+END
+DeleteEventListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/event/DeleteEventListener.html
+END

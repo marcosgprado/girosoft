@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate
+END
+EmptyInterceptor.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/EmptyInterceptor.html
+END
+PropertyNotFoundException.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/PropertyNotFoundException.html
+END
+Session.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/Session.html
+END
+Session.LockRequest.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/Session.LockRequest.html
+END
+QueryException.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/QueryException.html
+END
+Version.html
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/Version.html
+END
+SQLQuery.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/SQLQuery.html
+END
+Filter.html
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/Filter.html
+END
+NonUniqueObjectException.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/NonUniqueObjectException.html
+END
+LockMode.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/LockMode.html
+END
+Interceptor.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/Interceptor.html
+END
+NonUniqueResultException.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/NonUniqueResultException.html
+END
+SessionException.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/SessionException.html
+END
+TransactionException.html
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/TransactionException.html
+END
+StatelessSession.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/StatelessSession.html
+END
+CallbackException.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/CallbackException.html
+END
+ObjectDeletedException.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ObjectDeletedException.html
+END
+StaleObjectStateException.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/StaleObjectStateException.html
+END
+HibernateException.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/HibernateException.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/package-frame.html
+END
+SessionFactoryObserver.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/SessionFactoryObserver.html
+END
+PessimisticLockException.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/PessimisticLockException.html
+END
+QueryParameterException.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/QueryParameterException.html
+END
+FlushMode.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/FlushMode.html
+END
+StaleStateException.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/StaleStateException.html
+END
+AnnotationException.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/AnnotationException.html
+END
+FetchMode.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/FetchMode.html
+END
+UnknownProfileException.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/UnknownProfileException.html
+END
+InstantiationException.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/InstantiationException.html
+END
+LockOptions.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/LockOptions.html
+END
+Query.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/Query.html
+END
+ConnectionReleaseMode.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ConnectionReleaseMode.html
+END
+LazyInitializationException.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/LazyInitializationException.html
+END
+PersistentObjectException.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/PersistentObjectException.html
+END
+UnresolvableObjectException.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/UnresolvableObjectException.html
+END
+CacheMode.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/CacheMode.html
+END
+MappingException.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/MappingException.html
+END
+TransientObjectException.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/TransientObjectException.html
+END
+AssertionFailure.html
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/AssertionFailure.html
+END
+EntityMode.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/EntityMode.html
+END
+Transaction.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/Transaction.html
+END
+MappingNotFoundException.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/MappingNotFoundException.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/package-tree.html
+END
+QueryTimeoutException.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/QueryTimeoutException.html
+END
+EntityNameResolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/EntityNameResolver.html
+END
+PropertyValueException.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/PropertyValueException.html
+END
+WrongClassException.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/WrongClassException.html
+END
+Hibernate.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/Hibernate.html
+END
+Criteria.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/Criteria.html
+END
+OptimisticLockException.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/OptimisticLockException.html
+END
+ReplicationMode.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ReplicationMode.html
+END
+InvalidMappingException.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/InvalidMappingException.html
+END
+JDBCException.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/JDBCException.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/package-use.html
+END
+PropertyAccessException.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/PropertyAccessException.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/package-summary.html
+END
+TypeMismatchException.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/TypeMismatchException.html
+END
+ObjectNotFoundException.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ObjectNotFoundException.html
+END
+ScrollMode.html
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ScrollMode.html
+END
+Cache.html
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/Cache.html
+END
+ScrollableResults.html
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ScrollableResults.html
+END
+DuplicateMappingException.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/DuplicateMappingException.html
+END
+SessionFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/SessionFactory.html
+END

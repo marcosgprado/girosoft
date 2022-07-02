@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/session
+END
+SessionFixationProtectionStrategy.html
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/session/SessionFixationProtectionStrategy.html
+END
+SessionAuthenticationException.html
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/session/SessionAuthenticationException.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/session/package-frame.html
+END
+NullAuthenticatedSessionStrategy.html
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/session/NullAuthenticatedSessionStrategy.html
+END
+SessionAuthenticationStrategy.html
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/session/SessionAuthenticationStrategy.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/session/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/session/package-tree.html
+END
+ConcurrentSessionControlStrategy.html
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/session/ConcurrentSessionControlStrategy.html
+END

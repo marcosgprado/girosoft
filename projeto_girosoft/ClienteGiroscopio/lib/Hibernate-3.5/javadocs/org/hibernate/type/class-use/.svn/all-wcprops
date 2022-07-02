@@ -1,0 +1,533 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use
+END
+AbstractLongStringType.html
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/AbstractLongStringType.html
+END
+AssociationType.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/AssociationType.html
+END
+WrapperBinaryType.html
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/WrapperBinaryType.html
+END
+SpecialOneToOneType.html
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/SpecialOneToOneType.html
+END
+AbstractLongBinaryType.html
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/AbstractLongBinaryType.html
+END
+AbstractBynaryType.html
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/AbstractBynaryType.html
+END
+BagType.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/BagType.html
+END
+PrimitiveByteArrayBlobType.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/PrimitiveByteArrayBlobType.html
+END
+SerializationException.html
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/SerializationException.html
+END
+CharacterType.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/CharacterType.html
+END
+NullableType.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/NullableType.html
+END
+SortedMapType.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/SortedMapType.html
+END
+AbstractLobType.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/AbstractLobType.html
+END
+ForeignKeyDirection.html
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/ForeignKeyDirection.html
+END
+NumericBooleanType.html
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/NumericBooleanType.html
+END
+AnyType.ObjectTypeCacheEntry.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/AnyType.ObjectTypeCacheEntry.html
+END
+StringClobType.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/StringClobType.html
+END
+StringType.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/StringType.html
+END
+PrimitiveType.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/PrimitiveType.html
+END
+MaterializedBlobType.html
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/MaterializedBlobType.html
+END
+DbTimestampType.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/DbTimestampType.html
+END
+MaterializedClobType.html
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/MaterializedClobType.html
+END
+EntityType.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/EntityType.html
+END
+CharArrayType.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/CharArrayType.html
+END
+DateType.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/DateType.html
+END
+BlobType.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/BlobType.html
+END
+BigIntegerType.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/BigIntegerType.html
+END
+BooleanType.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/BooleanType.html
+END
+ClobType.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/ClobType.html
+END
+Type.html
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/Type.html
+END
+OrderedMapType.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/OrderedMapType.html
+END
+IdentifierType.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/IdentifierType.html
+END
+BinaryType.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/BinaryType.html
+END
+PrimitiveCharacterArrayClobType.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/PrimitiveCharacterArrayClobType.html
+END
+TextType.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/TextType.html
+END
+VersionType.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/VersionType.html
+END
+MetaType.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/MetaType.html
+END
+AbstractComponentType.html
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/AbstractComponentType.html
+END
+CurrencyType.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/CurrencyType.html
+END
+SetType.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/SetType.html
+END
+LiteralType.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/LiteralType.html
+END
+IdentifierBagType.html
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/IdentifierBagType.html
+END
+YesNoType.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/YesNoType.html
+END
+LongType.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/LongType.html
+END
+ShortType.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/ShortType.html
+END
+AdaptedImmutableType.html
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/AdaptedImmutableType.html
+END
+ByteType.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/ByteType.html
+END
+FloatType.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/FloatType.html
+END
+CalendarDateType.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/CalendarDateType.html
+END
+SerializableToBlobType.html
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/SerializableToBlobType.html
+END
+CalendarType.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/CalendarType.html
+END
+DoubleType.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/DoubleType.html
+END
+BigDecimalType.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/BigDecimalType.html
+END
+CustomCollectionType.html
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/CustomCollectionType.html
+END
+AnyType.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/AnyType.html
+END
+TimeZoneType.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/TimeZoneType.html
+END
+CollectionType.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/CollectionType.html
+END
+LocaleType.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/LocaleType.html
+END
+ComponentType.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/ComponentType.html
+END
+EnumType.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/EnumType.html
+END
+SerializableType.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/SerializableType.html
+END
+TypeFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/TypeFactory.html
+END
+CustomType.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/CustomType.html
+END
+ListType.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/ListType.html
+END
+EmbeddedComponentType.html
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/EmbeddedComponentType.html
+END
+SortedSetType.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/SortedSetType.html
+END
+MapType.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/MapType.html
+END
+CharBooleanType.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/CharBooleanType.html
+END
+ArrayType.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/ArrayType.html
+END
+ImmutableType.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/ImmutableType.html
+END
+ImageType.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/ImageType.html
+END
+OneToOneType.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/OneToOneType.html
+END
+MutableType.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/MutableType.html
+END
+TrueFalseType.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/TrueFalseType.html
+END
+CharacterArrayClobType.html
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/CharacterArrayClobType.html
+END
+CharacterArrayType.html
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/CharacterArrayType.html
+END
+WrappedMaterializedBlobType.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/WrappedMaterializedBlobType.html
+END
+IntegerType.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/IntegerType.html
+END
+CompositeCustomType.html
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/CompositeCustomType.html
+END
+TimeType.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/TimeType.html
+END
+AbstractCharArrayType.html
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/AbstractCharArrayType.html
+END
+OrderedSetType.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/OrderedSetType.html
+END
+ByteArrayBlobType.html
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/ByteArrayBlobType.html
+END
+AbstractType.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/AbstractType.html
+END
+TimestampType.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/TimestampType.html
+END
+ClassType.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/ClassType.html
+END
+DiscriminatorType.html
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/DiscriminatorType.html
+END
+ManyToOneType.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/type/class-use/ManyToOneType.html
+END

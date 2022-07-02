@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria
+END
+ValueHandlerFactory.BigDecimalValueHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/ValueHandlerFactory.BigDecimalValueHandler.html
+END
+TupleElementImplementor.html
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/TupleElementImplementor.html
+END
+IllegalDereferenceException.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/IllegalDereferenceException.html
+END
+ParameterContainer.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/ParameterContainer.html
+END
+CriteriaQueryCompiler.RenderedCriteriaQuery.html
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/CriteriaQueryCompiler.RenderedCriteriaQuery.html
+END
+CriteriaQueryCompiler.html
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/CriteriaQueryCompiler.html
+END
+QueryStructure.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/QueryStructure.html
+END
+CollectionJoinImplementor.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/CollectionJoinImplementor.html
+END
+CriteriaQueryCompiler.ImplicitParameterBinding.html
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/CriteriaQueryCompiler.ImplicitParameterBinding.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/package-tree.html
+END
+ValueHandlerFactory.IntegerValueHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/ValueHandlerFactory.IntegerValueHandler.html
+END
+CriteriaBuilderImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/CriteriaBuilderImpl.html
+END
+ValueHandlerFactory.ShortValueHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/ValueHandlerFactory.ShortValueHandler.html
+END
+OrderImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/OrderImpl.html
+END
+ValueHandlerFactory.FloatValueHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/ValueHandlerFactory.FloatValueHandler.html
+END
+BasicPathUsageException.html
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/BasicPathUsageException.html
+END
+ValueHandlerFactory.StringValueHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/ValueHandlerFactory.StringValueHandler.html
+END
+ValueHandlerFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/ValueHandlerFactory.html
+END
+CriteriaQueryCompiler.RenderingContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/CriteriaQueryCompiler.RenderingContext.html
+END
+ValueHandlerFactory.BaseValueHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/ValueHandlerFactory.BaseValueHandler.html
+END
+ListJoinImplementor.html
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/ListJoinImplementor.html
+END
+MapJoinImplementor.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/MapJoinImplementor.html
+END
+AbstractNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/AbstractNode.html
+END
+CriteriaQueryImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/CriteriaQueryImpl.html
+END
+ValueHandlerFactory.BigIntegerValueHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/ValueHandlerFactory.BigIntegerValueHandler.html
+END
+ExpressionImplementor.html
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/ExpressionImplementor.html
+END
+JoinImplementor.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/JoinImplementor.html
+END
+ValueHandlerFactory.ValueHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/ValueHandlerFactory.ValueHandler.html
+END
+PathSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/PathSource.html
+END
+FromImplementor.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/FromImplementor.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/package-frame.html
+END
+CriteriaSubqueryImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/CriteriaSubqueryImpl.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/package-summary.html
+END
+SetJoinImplementor.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/SetJoinImplementor.html
+END
+ValueHandlerFactory.LongValueHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/ValueHandlerFactory.LongValueHandler.html
+END
+ValueHandlerFactory.ByteValueHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/ValueHandlerFactory.ByteValueHandler.html
+END
+SelectionImplementor.html
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/SelectionImplementor.html
+END
+ParameterContainer.Helper.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/ParameterContainer.Helper.html
+END
+Renderable.html
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/Renderable.html
+END
+ValueHandlerFactory.DoubleValueHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/ValueHandlerFactory.DoubleValueHandler.html
+END
+ValueHandlerFactory.NoOpValueHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/ValueHandlerFactory.NoOpValueHandler.html
+END
+PathImplementor.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/PathImplementor.html
+END
+ParameterRegistry.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/ParameterRegistry.html
+END

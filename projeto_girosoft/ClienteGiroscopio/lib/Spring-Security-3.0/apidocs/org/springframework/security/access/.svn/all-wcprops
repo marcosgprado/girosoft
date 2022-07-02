@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access
+END
+SecurityConfig.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/SecurityConfig.html
+END
+AccessDecisionVoter.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/AccessDecisionVoter.html
+END
+AuthorizationServiceException.html
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/AuthorizationServiceException.html
+END
+ConfigAttributeEditor.html
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/ConfigAttributeEditor.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/package-frame.html
+END
+AfterInvocationProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/AfterInvocationProvider.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/package-tree.html
+END
+AccessDeniedException.html
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/AccessDeniedException.html
+END
+ConfigAttribute.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/ConfigAttribute.html
+END
+SecurityMetadataSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/SecurityMetadataSource.html
+END
+AccessDecisionManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/AccessDecisionManager.html
+END
+PermissionEvaluator.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/PermissionEvaluator.html
+END

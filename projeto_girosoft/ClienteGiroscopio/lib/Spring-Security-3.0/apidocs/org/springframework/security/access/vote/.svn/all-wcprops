@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/vote
+END
+UnanimousBased.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/vote/UnanimousBased.html
+END
+LabelBasedAclVoter.html
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/vote/LabelBasedAclVoter.html
+END
+ConsensusBased.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/vote/ConsensusBased.html
+END
+RoleHierarchyVoter.html
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/vote/RoleHierarchyVoter.html
+END
+RoleVoter.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/vote/RoleVoter.html
+END
+LabeledData.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/vote/LabeledData.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/vote/package-frame.html
+END
+InterfaceBasedLabelParameterStrategy.html
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/vote/InterfaceBasedLabelParameterStrategy.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/vote/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/vote/package-tree.html
+END
+AffirmativeBased.html
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/vote/AffirmativeBased.html
+END
+AbstractAccessDecisionManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/vote/AbstractAccessDecisionManager.html
+END
+AuthenticatedVoter.html
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/vote/AuthenticatedVoter.html
+END
+LabelParameterStrategy.html
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/vote/LabelParameterStrategy.html
+END
+AbstractAclVoter.html
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/vote/AbstractAclVoter.html
+END

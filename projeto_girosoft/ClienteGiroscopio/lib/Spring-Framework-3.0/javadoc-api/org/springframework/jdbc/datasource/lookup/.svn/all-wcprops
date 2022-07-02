@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/jdbc/datasource/lookup
+END
+BeanFactoryDataSourceLookup.html
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/jdbc/datasource/lookup/BeanFactoryDataSourceLookup.html
+END
+MapDataSourceLookup.html
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/jdbc/datasource/lookup/MapDataSourceLookup.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/jdbc/datasource/lookup/package-frame.html
+END
+DataSourceLookup.html
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/jdbc/datasource/lookup/DataSourceLookup.html
+END
+IsolationLevelDataSourceRouter.html
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/jdbc/datasource/lookup/IsolationLevelDataSourceRouter.html
+END
+AbstractRoutingDataSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/jdbc/datasource/lookup/AbstractRoutingDataSource.html
+END
+SingleDataSourceLookup.html
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/jdbc/datasource/lookup/SingleDataSourceLookup.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/jdbc/datasource/lookup/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/jdbc/datasource/lookup/package-tree.html
+END
+JndiDataSourceLookup.html
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/jdbc/datasource/lookup/JndiDataSourceLookup.html
+END
+DataSourceLookupFailureException.html
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/jdbc/datasource/lookup/DataSourceLookupFailureException.html
+END

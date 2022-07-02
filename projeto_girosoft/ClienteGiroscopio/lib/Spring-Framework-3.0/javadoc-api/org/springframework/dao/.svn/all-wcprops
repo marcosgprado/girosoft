@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/dao
+END
+DataIntegrityViolationException.html
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/dao/DataIntegrityViolationException.html
+END
+IncorrectResultSizeDataAccessException.html
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/dao/IncorrectResultSizeDataAccessException.html
+END
+NonTransientDataAccessException.html
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/dao/NonTransientDataAccessException.html
+END
+InvalidDataAccessResourceUsageException.html
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/dao/InvalidDataAccessResourceUsageException.html
+END
+DataRetrievalFailureException.html
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/dao/DataRetrievalFailureException.html
+END
+CannotSerializeTransactionException.html
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/dao/CannotSerializeTransactionException.html
+END
+ConcurrencyFailureException.html
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/dao/ConcurrencyFailureException.html
+END
+OptimisticLockingFailureException.html
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/dao/OptimisticLockingFailureException.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/dao/package-frame.html
+END
+CannotAcquireLockException.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/dao/CannotAcquireLockException.html
+END
+RecoverableDataAccessException.html
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/dao/RecoverableDataAccessException.html
+END
+NonTransientDataAccessResourceException.html
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/dao/NonTransientDataAccessResourceException.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/dao/package-summary.html
+END
+EmptyResultDataAccessException.html
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/dao/EmptyResultDataAccessException.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/dao/package-tree.html
+END
+DataAccessResourceFailureException.html
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/dao/DataAccessResourceFailureException.html
+END
+CleanupFailureDataAccessException.html
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/dao/CleanupFailureDataAccessException.html
+END
+PessimisticLockingFailureException.html
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/dao/PessimisticLockingFailureException.html
+END
+PermissionDeniedDataAccessException.html
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/dao/PermissionDeniedDataAccessException.html
+END
+IncorrectUpdateSemanticsDataAccessException.html
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/dao/IncorrectUpdateSemanticsDataAccessException.html
+END
+UncategorizedDataAccessException.html
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/dao/UncategorizedDataAccessException.html
+END
+InvalidDataAccessApiUsageException.html
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/dao/InvalidDataAccessApiUsageException.html
+END
+DuplicateKeyException.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/dao/DuplicateKeyException.html
+END
+TransientDataAccessException.html
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/dao/TransientDataAccessException.html
+END
+TypeMismatchDataAccessException.html
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/dao/TypeMismatchDataAccessException.html
+END
+DeadlockLoserDataAccessException.html
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/dao/DeadlockLoserDataAccessException.html
+END
+DataAccessException.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/dao/DataAccessException.html
+END
+TransientDataAccessResourceException.html
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/dao/TransientDataAccessResourceException.html
+END

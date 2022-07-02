@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/envers/synchronization/work/class-use
+END
+AbstractAuditWorkUnit.html
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/envers/synchronization/work/class-use/AbstractAuditWorkUnit.html
+END
+FakeBidirectionalRelationWorkUnit.html
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/envers/synchronization/work/class-use/FakeBidirectionalRelationWorkUnit.html
+END
+ModWorkUnit.html
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/envers/synchronization/work/class-use/ModWorkUnit.html
+END
+WorkUnitMergeVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/envers/synchronization/work/class-use/WorkUnitMergeVisitor.html
+END
+CollectionChangeWorkUnit.html
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/envers/synchronization/work/class-use/CollectionChangeWorkUnit.html
+END
+PersistentCollectionChangeWorkUnit.html
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/envers/synchronization/work/class-use/PersistentCollectionChangeWorkUnit.html
+END
+DelWorkUnit.html
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/envers/synchronization/work/class-use/DelWorkUnit.html
+END
+AuditWorkUnit.html
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/envers/synchronization/work/class-use/AuditWorkUnit.html
+END
+WorkUnitMergeDispatcher.html
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/envers/synchronization/work/class-use/WorkUnitMergeDispatcher.html
+END
+AddWorkUnit.html
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/envers/synchronization/work/class-use/AddWorkUnit.html
+END

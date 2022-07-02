@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/event
+END
+AuthenticationCredentialsNotFoundEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/event/AuthenticationCredentialsNotFoundEvent.html
+END
+AuthorizedEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/event/AuthorizedEvent.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/event/package-frame.html
+END
+LoggerListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/event/LoggerListener.html
+END
+AbstractAuthorizationEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/event/AbstractAuthorizationEvent.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/event/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/event/package-tree.html
+END
+AuthorizationFailureEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/event/AuthorizationFailureEvent.html
+END
+PublicInvocationEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/event/PublicInvocationEvent.html
+END

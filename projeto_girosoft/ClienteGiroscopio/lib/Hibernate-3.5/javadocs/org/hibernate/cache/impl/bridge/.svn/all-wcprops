@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/cache/impl/bridge
+END
+BaseRegionAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/cache/impl/bridge/BaseRegionAdapter.html
+END
+EntityRegionAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/cache/impl/bridge/EntityRegionAdapter.html
+END
+EntityAccessStrategyAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/cache/impl/bridge/EntityAccessStrategyAdapter.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/cache/impl/bridge/package-frame.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/cache/impl/bridge/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/cache/impl/bridge/package-summary.html
+END
+RegionFactoryCacheProviderBridge.html
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/cache/impl/bridge/RegionFactoryCacheProviderBridge.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/cache/impl/bridge/package-tree.html
+END
+OptimisticCacheSourceAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/cache/impl/bridge/OptimisticCacheSourceAdapter.html
+END
+TimestampsRegionAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/cache/impl/bridge/TimestampsRegionAdapter.html
+END
+QueryResultsRegionAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/cache/impl/bridge/QueryResultsRegionAdapter.html
+END
+BaseTransactionalDataRegionAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/cache/impl/bridge/BaseTransactionalDataRegionAdapter.html
+END
+CollectionRegionAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/cache/impl/bridge/CollectionRegionAdapter.html
+END
+CollectionAccessStrategyAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/cache/impl/bridge/CollectionAccessStrategyAdapter.html
+END
+BaseGeneralDataRegionAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/cache/impl/bridge/BaseGeneralDataRegionAdapter.html
+END

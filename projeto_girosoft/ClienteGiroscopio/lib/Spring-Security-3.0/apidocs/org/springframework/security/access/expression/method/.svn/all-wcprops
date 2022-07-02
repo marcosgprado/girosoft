@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/expression/method
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/expression/method/package-frame.html
+END
+ExpressionBasedAnnotationAttributeFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 217
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/expression/method/ExpressionBasedAnnotationAttributeFactory.html
+END
+MethodSecurityExpressionHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/expression/method/MethodSecurityExpressionHandler.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/expression/method/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/expression/method/package-tree.html
+END
+ExpressionBasedPostInvocationAdvice.html
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/expression/method/ExpressionBasedPostInvocationAdvice.html
+END
+DefaultMethodSecurityExpressionHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/expression/method/DefaultMethodSecurityExpressionHandler.html
+END
+ExpressionBasedPreInvocationAdvice.html
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/access/expression/method/ExpressionBasedPreInvocationAdvice.html
+END

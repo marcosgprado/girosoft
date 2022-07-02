@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/jca/cci/connection
+END
+ConnectionHolder.html
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/jca/cci/connection/ConnectionHolder.html
+END
+NotSupportedRecordFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/jca/cci/connection/NotSupportedRecordFactory.html
+END
+TransactionAwareConnectionFactoryProxy.html
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/jca/cci/connection/TransactionAwareConnectionFactoryProxy.html
+END
+ConnectionSpecConnectionFactoryAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/jca/cci/connection/ConnectionSpecConnectionFactoryAdapter.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/jca/cci/connection/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/jca/cci/connection/package-summary.html
+END
+ConnectionFactoryUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/jca/cci/connection/ConnectionFactoryUtils.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/jca/cci/connection/package-tree.html
+END
+SingleConnectionFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/jca/cci/connection/SingleConnectionFactory.html
+END
+CciLocalTransactionManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/jca/cci/connection/CciLocalTransactionManager.html
+END
+DelegatingConnectionFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/jca/cci/connection/DelegatingConnectionFactory.html
+END

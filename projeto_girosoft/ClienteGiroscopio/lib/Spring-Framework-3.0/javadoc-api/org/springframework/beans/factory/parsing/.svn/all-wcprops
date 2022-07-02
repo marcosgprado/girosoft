@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/beans/factory/parsing
+END
+DefaultsDefinition.html
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/beans/factory/parsing/DefaultsDefinition.html
+END
+BeanDefinitionParsingException.html
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/beans/factory/parsing/BeanDefinitionParsingException.html
+END
+ImportDefinition.html
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/beans/factory/parsing/ImportDefinition.html
+END
+ProblemReporter.html
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/beans/factory/parsing/ProblemReporter.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/beans/factory/parsing/package-frame.html
+END
+PassThroughSourceExtractor.html
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/beans/factory/parsing/PassThroughSourceExtractor.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/beans/factory/parsing/package-summary.html
+END
+NullSourceExtractor.html
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/beans/factory/parsing/NullSourceExtractor.html
+END
+BeanEntry.html
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/beans/factory/parsing/BeanEntry.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/beans/factory/parsing/package-tree.html
+END
+EmptyReaderEventListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/beans/factory/parsing/EmptyReaderEventListener.html
+END
+SourceExtractor.html
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/beans/factory/parsing/SourceExtractor.html
+END
+FailFastProblemReporter.html
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/beans/factory/parsing/FailFastProblemReporter.html
+END
+CompositeComponentDefinition.html
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/beans/factory/parsing/CompositeComponentDefinition.html
+END
+AbstractComponentDefinition.html
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/beans/factory/parsing/AbstractComponentDefinition.html
+END
+Problem.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/beans/factory/parsing/Problem.html
+END
+BeanComponentDefinition.html
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/beans/factory/parsing/BeanComponentDefinition.html
+END
+AliasDefinition.html
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/beans/factory/parsing/AliasDefinition.html
+END
+QualifierEntry.html
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/beans/factory/parsing/QualifierEntry.html
+END
+PropertyEntry.html
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/beans/factory/parsing/PropertyEntry.html
+END
+ReaderContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/beans/factory/parsing/ReaderContext.html
+END
+Location.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/beans/factory/parsing/Location.html
+END
+ConstructorArgumentEntry.html
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/beans/factory/parsing/ConstructorArgumentEntry.html
+END
+ReaderEventListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/beans/factory/parsing/ReaderEventListener.html
+END
+ParseState.Entry.html
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/beans/factory/parsing/ParseState.Entry.html
+END
+ComponentDefinition.html
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/beans/factory/parsing/ComponentDefinition.html
+END
+ParseState.html
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/beans/factory/parsing/ParseState.html
+END

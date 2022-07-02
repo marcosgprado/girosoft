@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/rememberme
+END
+InvalidCookieException.html
+K 25
+svn:wc:ra_dav:version-url
+V 203
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/rememberme/InvalidCookieException.html
+END
+RememberMeAuthenticationException.html
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/rememberme/RememberMeAuthenticationException.html
+END
+PersistentTokenRepository.html
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/rememberme/PersistentTokenRepository.html
+END
+InMemoryTokenRepositoryImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/rememberme/InMemoryTokenRepositoryImpl.html
+END
+PersistentRememberMeToken.html
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/rememberme/PersistentRememberMeToken.html
+END
+CookieTheftException.html
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/rememberme/CookieTheftException.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/rememberme/package-frame.html
+END
+TokenBasedRememberMeServices.html
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/rememberme/TokenBasedRememberMeServices.html
+END
+JdbcTokenRepositoryImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/rememberme/JdbcTokenRepositoryImpl.html
+END
+PersistentTokenBasedRememberMeServices.html
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/rememberme/PersistentTokenBasedRememberMeServices.html
+END
+RememberMeAuthenticationFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/rememberme/RememberMeAuthenticationFilter.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/rememberme/package-summary.html
+END
+AbstractRememberMeServices.html
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/rememberme/AbstractRememberMeServices.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/rememberme/package-tree.html
+END

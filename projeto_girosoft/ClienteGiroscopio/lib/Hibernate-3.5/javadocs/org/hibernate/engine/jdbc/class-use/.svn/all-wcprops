@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/engine/jdbc/class-use
+END
+StreamUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/engine/jdbc/class-use/StreamUtils.html
+END
+NonContextualLobCreator.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/engine/jdbc/class-use/NonContextualLobCreator.html
+END
+BlobProxy.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/engine/jdbc/class-use/BlobProxy.html
+END
+BlobImplementer.html
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/engine/jdbc/class-use/BlobImplementer.html
+END
+AbstractLobCreator.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/engine/jdbc/class-use/AbstractLobCreator.html
+END
+JdbcSupportImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/engine/jdbc/class-use/JdbcSupportImpl.html
+END
+ClobProxy.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/engine/jdbc/class-use/ClobProxy.html
+END
+ClobImplementer.html
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/engine/jdbc/class-use/ClobImplementer.html
+END
+ColumnNameCache.html
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/engine/jdbc/class-use/ColumnNameCache.html
+END
+JdbcSupportLoader.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/engine/jdbc/class-use/JdbcSupportLoader.html
+END
+SerializableNClobProxy.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/engine/jdbc/class-use/SerializableNClobProxy.html
+END
+LobCreator.html
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/engine/jdbc/class-use/LobCreator.html
+END
+ResultSetWrapperProxy.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/engine/jdbc/class-use/ResultSetWrapperProxy.html
+END
+ReaderInputStream.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/engine/jdbc/class-use/ReaderInputStream.html
+END
+NClobProxy.html
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/engine/jdbc/class-use/NClobProxy.html
+END
+NClobImplementer.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/engine/jdbc/class-use/NClobImplementer.html
+END
+JdbcSupport.html
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/engine/jdbc/class-use/JdbcSupport.html
+END
+LobCreationContext.Callback.html
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/engine/jdbc/class-use/LobCreationContext.Callback.html
+END
+WrappedBlob.html
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/engine/jdbc/class-use/WrappedBlob.html
+END
+WrappedClob.html
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/engine/jdbc/class-use/WrappedClob.html
+END
+ContextualLobCreator.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/engine/jdbc/class-use/ContextualLobCreator.html
+END
+LobCreationContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/engine/jdbc/class-use/LobCreationContext.html
+END
+SerializableBlobProxy.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/engine/jdbc/class-use/SerializableBlobProxy.html
+END
+SerializableClobProxy.html
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/engine/jdbc/class-use/SerializableClobProxy.html
+END

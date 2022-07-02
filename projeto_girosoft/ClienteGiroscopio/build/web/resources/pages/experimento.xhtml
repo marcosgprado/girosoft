@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<ui:composition xmlns:ui="http://java.sun.com/jsf/facelets"
+                xmlns:h="http://java.sun.com/jsf/html"
+                xmlns:a4j="http://richfaces.org/a4j"
+                xmlns:custom="http://libraries"
+                xmlns:rich="http://richfaces.org/rich"
+                xmlns:f="http://java.sun.com/jsf/core">
+
+
+<h:form>
+
+    <a4j:poll id="poll" interval="2000" enabled="true" reRender="tabelaDadosGiro"/>
+    <a4j:poll id="poll01" interval="2000" enabled="true" reRender="DUSB"/>
+
+    <h:panelGrid columns="2">
+
+	   <h:outputText value="Usuario: " style="font-weight: bold; font-size: 12px;"/>
+           <h:outputText value="#{login.usuario.nome}" style="font-weight: bold; font-size: 12px;"/>
+
+    </h:panelGrid>
+
+                  <div align="center">
+                    <h1>Controle do Experimento</h1>
+                  </div>
+    
+    <h:panelGrid columns="2">
+
+                <h:panelGrid>
+                   <div style="width: 650px;">
+                       <rich:panel style="width: 600px; margin-bottom: 30px;">
+                           <h:panelGrid columns="4">
+                           <h:outputText value="Comprimento do Eixo(m): 0,07" style="font-weight: bold; font-size: 16px;"/>
+                           <dd/>
+                           <h:outputText value="Raio do Disco(m): 0,07" style="font-weight: bold; font-size: 16px;"/>
+                           
+                           <br/><br/><br/>
+
+                           <h:outputText value="Massa do Disco(Kg): 0,14" style="font-weight: bold; font-size: 16px;"/>
+                           <dd/>
+                           <h:outputText value="Gravidade(m/s²): 9,8" style="font-weight: bold; font-size: 16px;"/>
+                           
+                           </h:panelGrid>
+                       </rich:panel>
+                   
+
+                   <br/>
+
+                   <h:panelGrid columns="2">
+                       <h:commandButton value="Executar" action="#{experimentoManagedBean.executar}"/>
+                       <h:commandButton value="Relatório" action="relatorio"/>
+                   </h:panelGrid>
+
+
+                  <h:panelGrid>
+
+                       <rich:dataTable id="tabelaDadosGiro" value="#{experimentoManagedBean.experimento.listaDadosGiroscopio}" var="dadosGiro" width="600">
+                         <f:facet name="header">Dados do Giroscópio</f:facet>
+
+                         <rich:column>
+                         <f:facet name="header">N°</f:facet>
+                                  #{dadosGiro.numeroCaptura}
+                         </rich:column>
+                         <rich:column>
+                         <f:facet name="header">Velocidade Angular do Disco - rad/s</f:facet>
+                                  <h:outputText value="  #{dadosGiro.velocAngDisco}"/>
+                         </rich:column>
+                         <rich:column>
+                         <f:facet name="header">Velocidade Angular de Precessão - rad/s</f:facet>
+                                  #{dadosGiro.velocAngPrecessaoMedida}
+                       </rich:column>
+                         
+                      </rich:dataTable>
+                 </h:panelGrid>
+               </div>
+            </h:panelGrid>
+           
+               
+        
+
+        <h:panelGrid cellpadding="10">
+           <div align="center">
+                     <br/>
+                    <br/>
+                  <h:graphicImage  value="/resources/images/giro01.JPG" width="250" height="300"/>
+           </div>
+        </h:panelGrid>
+        
+
+
+
+
+    </h:panelGrid>
+       
+  </h:form>
+
+
+      
+
+</ui:composition>

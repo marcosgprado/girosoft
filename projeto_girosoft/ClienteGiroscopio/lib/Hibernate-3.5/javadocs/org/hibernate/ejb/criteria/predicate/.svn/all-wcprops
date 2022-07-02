@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/predicate
+END
+MemberOfPredicate.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/predicate/MemberOfPredicate.html
+END
+ComparisonPredicate.ComparisonOperator.html
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/predicate/ComparisonPredicate.ComparisonOperator.html
+END
+BooleanExpressionPredicate.html
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/predicate/BooleanExpressionPredicate.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/predicate/package-frame.html
+END
+NullnessPredicate.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/predicate/NullnessPredicate.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/predicate/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/predicate/package-summary.html
+END
+InPredicate.html
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/predicate/InPredicate.html
+END
+BooleanAssertionPredicate.html
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/predicate/BooleanAssertionPredicate.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/predicate/package-tree.html
+END
+ComparisonPredicate.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/predicate/ComparisonPredicate.html
+END
+AbstractSimplePredicate.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/predicate/AbstractSimplePredicate.html
+END
+ExistsPredicate.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/predicate/ExistsPredicate.html
+END
+BooleanStaticAssertionPredicate.html
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/predicate/BooleanStaticAssertionPredicate.html
+END
+ExplicitTruthValueCheck.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/predicate/ExplicitTruthValueCheck.html
+END
+TruthValue.html
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/predicate/TruthValue.html
+END
+LikePredicate.html
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/predicate/LikePredicate.html
+END
+CompoundPredicate.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/predicate/CompoundPredicate.html
+END
+AbstractPredicateImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/predicate/AbstractPredicateImpl.html
+END
+BetweenPredicate.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/predicate/BetweenPredicate.html
+END
+IsEmptyPredicate.html
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/ejb/criteria/predicate/IsEmptyPredicate.html
+END

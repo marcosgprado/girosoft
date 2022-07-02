@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/lock/class-use
+END
+UpdateLockingStrategy.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/lock/class-use/UpdateLockingStrategy.html
+END
+AbstractSelectLockingStrategy.html
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/lock/class-use/AbstractSelectLockingStrategy.html
+END
+OptimisticLockingStrategy.html
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/lock/class-use/OptimisticLockingStrategy.html
+END
+PessimisticWriteSelectLockingStrategy.html
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/lock/class-use/PessimisticWriteSelectLockingStrategy.html
+END
+OptimisticForceIncrementLockingStrategy.html
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/lock/class-use/OptimisticForceIncrementLockingStrategy.html
+END
+PessimisticReadSelectLockingStrategy.html
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/lock/class-use/PessimisticReadSelectLockingStrategy.html
+END
+PessimisticWriteUpdateLockingStrategy.html
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/lock/class-use/PessimisticWriteUpdateLockingStrategy.html
+END
+PessimisticReadUpdateLockingStrategy.html
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/lock/class-use/PessimisticReadUpdateLockingStrategy.html
+END
+LockingStrategy.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/lock/class-use/LockingStrategy.html
+END
+SelectLockingStrategy.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/lock/class-use/SelectLockingStrategy.html
+END
+PessimisticForceIncrementLockingStrategy.html
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/dialect/lock/class-use/PessimisticForceIncrementLockingStrategy.html
+END

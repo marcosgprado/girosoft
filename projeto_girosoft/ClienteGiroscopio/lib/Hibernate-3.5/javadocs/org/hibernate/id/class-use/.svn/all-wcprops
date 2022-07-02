@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use
+END
+IdentifierGenerationException.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/IdentifierGenerationException.html
+END
+SequenceGenerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/SequenceGenerator.html
+END
+IdentityGenerator.GetGeneratedKeysDelegate.html
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/IdentityGenerator.GetGeneratedKeysDelegate.html
+END
+CompositeNestedGeneratedValueGenerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/CompositeNestedGeneratedValueGenerator.html
+END
+SequenceIdentityGenerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/SequenceIdentityGenerator.html
+END
+IncrementGenerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/IncrementGenerator.html
+END
+TableGenerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/TableGenerator.html
+END
+SequenceIdentityGenerator.NoCommentsInsert.html
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/SequenceIdentityGenerator.NoCommentsInsert.html
+END
+IdentityGenerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/IdentityGenerator.html
+END
+AbstractUUIDGenerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/AbstractUUIDGenerator.html
+END
+SequenceIdentityGenerator.Delegate.html
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/SequenceIdentityGenerator.Delegate.html
+END
+AbstractPostInsertGenerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/AbstractPostInsertGenerator.html
+END
+IdentifierGeneratorHelper.BigIntegerHolder.html
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/IdentifierGeneratorHelper.BigIntegerHolder.html
+END
+SelectGenerator.SelectGeneratorDelegate.html
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/SelectGenerator.SelectGeneratorDelegate.html
+END
+ResultSetIdentifierConsumer.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/ResultSetIdentifierConsumer.html
+END
+CompositeNestedGeneratedValueGenerator.GenerationContextLocator.html
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/CompositeNestedGeneratedValueGenerator.GenerationContextLocator.html
+END
+UUIDHexGenerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/UUIDHexGenerator.html
+END
+PostInsertIdentifierGenerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/PostInsertIdentifierGenerator.html
+END
+PostInsertIdentityPersister.html
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/PostInsertIdentityPersister.html
+END
+SelectGenerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/SelectGenerator.html
+END
+IdentifierGeneratorHelper.html
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/IdentifierGeneratorHelper.html
+END
+IdentifierGenerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/IdentifierGenerator.html
+END
+SequenceHiLoGenerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/SequenceHiLoGenerator.html
+END
+IdentifierGeneratorAggregator.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/IdentifierGeneratorAggregator.html
+END
+MultipleHiLoPerTableGenerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/MultipleHiLoPerTableGenerator.html
+END
+Assigned.html
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/Assigned.html
+END
+CompositeNestedGeneratedValueGenerator.GenerationPlan.html
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/CompositeNestedGeneratedValueGenerator.GenerationPlan.html
+END
+IdentityGenerator.InsertSelectDelegate.html
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/IdentityGenerator.InsertSelectDelegate.html
+END
+IntegralDataTypeHolder.html
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/IntegralDataTypeHolder.html
+END
+GUIDGenerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/GUIDGenerator.html
+END
+Configurable.html
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/Configurable.html
+END
+ForeignGenerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/ForeignGenerator.html
+END
+IdentifierGeneratorHelper.BigDecimalHolder.html
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/IdentifierGeneratorHelper.BigDecimalHolder.html
+END
+IdentifierGeneratorHelper.BasicHolder.html
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/IdentifierGeneratorHelper.BasicHolder.html
+END
+PersistentIdentifierGenerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/PersistentIdentifierGenerator.html
+END
+TableHiLoGenerator.html
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/TableHiLoGenerator.html
+END
+IdentityGenerator.BasicDelegate.html
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/class-use/IdentityGenerator.BasicDelegate.html
+END

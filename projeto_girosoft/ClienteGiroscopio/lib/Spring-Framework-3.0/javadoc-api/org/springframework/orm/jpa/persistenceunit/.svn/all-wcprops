@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/orm/jpa/persistenceunit
+END
+PersistenceUnitManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/orm/jpa/persistenceunit/PersistenceUnitManager.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/orm/jpa/persistenceunit/package-frame.html
+END
+DefaultPersistenceUnitManager.html
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/orm/jpa/persistenceunit/DefaultPersistenceUnitManager.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/orm/jpa/persistenceunit/package-summary.html
+END
+SmartPersistenceUnitInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/orm/jpa/persistenceunit/SmartPersistenceUnitInfo.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/orm/jpa/persistenceunit/package-tree.html
+END
+MutablePersistenceUnitInfo.html
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/orm/jpa/persistenceunit/MutablePersistenceUnitInfo.html
+END
+PersistenceUnitPostProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/orm/jpa/persistenceunit/PersistenceUnitPostProcessor.html
+END

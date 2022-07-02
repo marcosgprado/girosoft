@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/context/support
+END
+StaticWebApplicationContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/context/support/StaticWebApplicationContext.html
+END
+ContextExposingHttpServletRequest.html
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/context/support/ContextExposingHttpServletRequest.html
+END
+ServletRequestHandledEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/context/support/ServletRequestHandledEvent.html
+END
+ServletContextResourcePatternResolver.html
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/context/support/ServletContextResourcePatternResolver.html
+END
+ServletContextScope.html
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/context/support/ServletContextScope.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/context/support/package-frame.html
+END
+ServletContextPropertyPlaceholderConfigurer.html
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/context/support/ServletContextPropertyPlaceholderConfigurer.html
+END
+WebApplicationObjectSupport.html
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/context/support/WebApplicationObjectSupport.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/context/support/package-summary.html
+END
+AnnotationConfigWebApplicationContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/context/support/AnnotationConfigWebApplicationContext.html
+END
+WebApplicationContextUtils.html
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/context/support/WebApplicationContextUtils.html
+END
+XmlWebApplicationContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/context/support/XmlWebApplicationContext.html
+END
+ServletContextResourceLoader.html
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/context/support/ServletContextResourceLoader.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/context/support/package-tree.html
+END
+ServletContextAttributeFactoryBean.html
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/context/support/ServletContextAttributeFactoryBean.html
+END
+HttpRequestHandlerServlet.html
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/context/support/HttpRequestHandlerServlet.html
+END
+AbstractRefreshableWebApplicationContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/context/support/AbstractRefreshableWebApplicationContext.html
+END
+SpringBeanAutowiringSupport.html
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/context/support/SpringBeanAutowiringSupport.html
+END
+ServletContextResource.html
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/context/support/ServletContextResource.html
+END
+GenericWebApplicationContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/context/support/GenericWebApplicationContext.html
+END
+ServletContextAttributeExporter.html
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/context/support/ServletContextAttributeExporter.html
+END
+ServletContextFactoryBean.html
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/context/support/ServletContextFactoryBean.html
+END
+ServletContextParameterFactoryBean.html
+K 25
+svn:wc:ra_dav:version-url
+V 201
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/context/support/ServletContextParameterFactoryBean.html
+END
+ServletContextAwareProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 195
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/context/support/ServletContextAwareProcessor.html
+END
+RequestHandledEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework/web/context/support/RequestHandledEvent.html
+END

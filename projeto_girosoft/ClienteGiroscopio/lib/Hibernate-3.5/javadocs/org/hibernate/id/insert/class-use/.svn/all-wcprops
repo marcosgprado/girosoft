@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/insert/class-use
+END
+AbstractReturningDelegate.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/insert/class-use/AbstractReturningDelegate.html
+END
+AbstractSelectingDelegate.html
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/insert/class-use/AbstractSelectingDelegate.html
+END
+InsertGeneratedIdentifierDelegate.html
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/insert/class-use/InsertGeneratedIdentifierDelegate.html
+END
+Binder.html
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/insert/class-use/Binder.html
+END
+InsertSelectIdentityInsert.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/insert/class-use/InsertSelectIdentityInsert.html
+END
+IdentifierGeneratingInsert.html
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Hibernate-3.5/javadocs/org/hibernate/id/insert/class-use/IdentifierGeneratingInsert.html
+END

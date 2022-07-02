@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scene Scope="Project" version="2">
+    <Scope Scope="Faces Configuration Only"/>
+    <Scope Scope="Project">
+        <Node id="resources/pages/usuario/sobreUsuario.xhtml" x="400" y="900" zoom="true"/>
+        <Node id="resources/templates/adminTemplate.xhtml" x="650" y="300" zoom="true"/>
+        <Node id="resources/pages/admin/crudUsuario.xhtml" x="150" y="600" zoom="true"/>
+        <Node id="resources/pages/usuario/homeUsuario.xhtml" x="650" y="600" zoom="true"/>
+        <Node id="resources/pages/visitante/teoriaVisit.xhtml" x="900" y="300" zoom="true"/>
+        <Node id="resources/pages/conteudo.xhtml" x="1400" y="150" zoom="true"/>
+        <Node id="resources/pages/usuario/experimentoUsuario.xhtml" x="900" y="450" zoom="true"/>
+        <Node id="resources/menus/visitanteMenu.xhtml" x="150" y="900" zoom="true"/>
+        <Node id="resources/pages/admin/homeAdmin.xhtml" x="650" y="450" zoom="true"/>
+        <Node id="resources/pages/usuario/*" x="1150" y="450" zoom="true"/>
+        <Node id="resources/pages/teoria/teoria.html" x="150" y="1050" zoom="true"/>
+        <Node id="home.xhtml" x="400" y="150" zoom="true"/>
+        <Node id="resources/pages/experimento.xhtml" x="150" y="300" zoom="true"/>
+        <Node id="resources/pages/admin/teoriaAdmin.xhtml" x="900" y="150" zoom="true"/>
+        <Node id="resources/pages/home.xhtml" x="1611" y="94" zoom="true"/>
+        <Node id="resources/menus/usuarioMenu.xhtml" x="150" y="750" zoom="true"/>
+        <Node id="resources/templates/visitanteTemplate.xhtml" x="400" y="750" zoom="true"/>
+        <Node id="redirect.jsp" x="150" y="150" zoom="true"/>
+        <Node id="resources/pages/visitante/sobreVisitante.xhtml" x="1650" y="150" zoom="true"/>
+        <Node id="resources/pages/relatorio.xhtml" x="650" y="750" zoom="true"/>
+        <Node id="resources/pages/visitante/homeVisit.xhtml" x="400" y="450" zoom="true"/>
+        <Node id="resources/menus/adminMenu.xhtml" x="1150" y="150" zoom="true"/>
+        <Node id="resources/templates/baseTemplate.xhtml" x="400" y="600" zoom="true"/>
+        <Node id="resources/pages/admin/experimentoAdmin.xhtml" x="650" y="150" zoom="true"/>
+        <Node id="resources/pages/usuario/teoriaUsuario.xhtml" x="1568" y="308" zoom="true"/>
+        <Node id="resources/pages/teoria/teoria1.xhtml" x="1150" y="300" zoom="true"/>
+        <Node id="resources/templates/usuarioTemplate.xhtml" x="1791" y="166" zoom="true"/>
+        <Node id="resources/pages/admin/*" x="1332" y="311" zoom="true"/>
+        <Node id="resources/pages/*" x="1054" y="601" zoom="true"/>
+        <Node id="resources/pages/login.xhtml" x="150" y="450" zoom="true"/>
+        <Node id="resources/pages/admin/sobreAdmin.xhtml" x="1400" y="300" zoom="true"/>
+        <Node id="resources/pages/sobre.xhtml" x="900" y="600" zoom="true"/>
+    </Scope>
+    <Scope Scope="All Faces Configurations"/>
+</Scene>

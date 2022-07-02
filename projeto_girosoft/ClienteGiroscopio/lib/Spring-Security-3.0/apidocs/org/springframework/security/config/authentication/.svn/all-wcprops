@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/config/authentication
+END
+JdbcUserServiceBeanDefinitionParser.html
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/config/authentication/JdbcUserServiceBeanDefinitionParser.html
+END
+PasswordEncoderParser.html
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/config/authentication/PasswordEncoderParser.html
+END
+CachingUserDetailsService.html
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/config/authentication/CachingUserDetailsService.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/config/authentication/package-frame.html
+END
+AbstractUserDetailsServiceBeanDefinitionParser.html
+K 25
+svn:wc:ra_dav:version-url
+V 219
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/config/authentication/AbstractUserDetailsServiceBeanDefinitionParser.html
+END
+AuthenticationManagerBeanDefinitionParser.html
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/config/authentication/AuthenticationManagerBeanDefinitionParser.html
+END
+AuthenticationProviderBeanDefinitionParser.html
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/config/authentication/AuthenticationProviderBeanDefinitionParser.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/config/authentication/package-summary.html
+END
+AuthenticationManagerFactoryBean.html
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/config/authentication/AuthenticationManagerFactoryBean.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/config/authentication/package-tree.html
+END
+AuthenticationManagerBeanDefinitionParser.NullAuthenticationProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 241
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/config/authentication/AuthenticationManagerBeanDefinitionParser.NullAuthenticationProvider.html
+END
+UserServiceBeanDefinitionParser.html
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/config/authentication/UserServiceBeanDefinitionParser.html
+END

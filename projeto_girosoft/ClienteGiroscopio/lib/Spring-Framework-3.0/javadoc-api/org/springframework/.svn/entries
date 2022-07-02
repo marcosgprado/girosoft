@@ -1,0 +1,118 @@
+10
+
+dir
+1689
+http://10.0.254.50:3690/svn/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Framework-3.0/javadoc-api/org/springframework
+http://10.0.254.50:3690/svn
+
+
+
+2010-09-21T21:59:28.793422Z
+1678
+helder
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1afaeba9-2a64-4672-bbc6-b55eb87ca820
+
+aop
+dir
+
+test
+dir
+
+http
+dir
+
+mail
+dir
+
+context
+dir
+
+jndi
+dir
+
+remoting
+dir
+
+transaction
+dir
+
+scheduling
+dir
+
+format
+dir
+
+beans
+dir
+
+core
+dir
+
+mock
+dir
+
+jms
+dir
+
+validation
+dir
+
+jca
+dir
+
+orm
+dir
+
+jmx
+dir
+
+expression
+dir
+
+ejb
+dir
+
+jdbc
+dir
+
+scripting
+dir
+
+oxm
+dir
+
+stereotype
+dir
+
+dao
+dir
+
+cache
+dir
+
+instrument
+dir
+
+web
+dir
+
+util
+dir
+
+ui
+dir
+

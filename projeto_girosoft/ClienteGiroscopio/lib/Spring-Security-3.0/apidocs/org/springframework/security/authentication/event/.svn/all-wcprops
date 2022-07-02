@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/authentication/event
+END
+AbstractAuthenticationFailureEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/authentication/event/AbstractAuthenticationFailureEvent.html
+END
+AuthenticationFailureBadCredentialsEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/authentication/event/AuthenticationFailureBadCredentialsEvent.html
+END
+AuthenticationFailureProviderNotFoundEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/authentication/event/AuthenticationFailureProviderNotFoundEvent.html
+END
+AuthenticationFailureDisabledEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/authentication/event/AuthenticationFailureDisabledEvent.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/authentication/event/package-frame.html
+END
+LoggerListener.html
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/authentication/event/LoggerListener.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 187
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/authentication/event/package-summary.html
+END
+AuthenticationFailureCredentialsExpiredEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/authentication/event/AuthenticationFailureCredentialsExpiredEvent.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/authentication/event/package-tree.html
+END
+AuthenticationFailureServiceExceptionEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/authentication/event/AuthenticationFailureServiceExceptionEvent.html
+END
+AbstractAuthenticationEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/authentication/event/AbstractAuthenticationEvent.html
+END
+InteractiveAuthenticationSuccessEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 209
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/authentication/event/InteractiveAuthenticationSuccessEvent.html
+END
+AuthenticationFailureProxyUntrustedEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 212
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/authentication/event/AuthenticationFailureProxyUntrustedEvent.html
+END
+AuthenticationSuccessEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/authentication/event/AuthenticationSuccessEvent.html
+END
+AuthenticationFailureExpiredEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/authentication/event/AuthenticationFailureExpiredEvent.html
+END
+AuthenticationFailureLockedEvent.html
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/authentication/event/AuthenticationFailureLockedEvent.html
+END

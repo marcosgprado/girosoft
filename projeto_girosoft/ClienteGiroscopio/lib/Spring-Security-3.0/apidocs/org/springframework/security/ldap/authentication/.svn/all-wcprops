@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/ldap/authentication
+END
+UserDetailsServiceLdapAuthoritiesPopulator.html
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/ldap/authentication/UserDetailsServiceLdapAuthoritiesPopulator.html
+END
+AbstractLdapAuthenticator.html
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/ldap/authentication/AbstractLdapAuthenticator.html
+END
+NullLdapAuthoritiesPopulator.html
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/ldap/authentication/NullLdapAuthoritiesPopulator.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 184
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/ldap/authentication/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 186
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/ldap/authentication/package-summary.html
+END
+BindAuthenticator.html
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/ldap/authentication/BindAuthenticator.html
+END
+PasswordComparisonAuthenticator.html
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/ldap/authentication/PasswordComparisonAuthenticator.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/ldap/authentication/package-tree.html
+END
+LdapAuthenticationProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 197
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/ldap/authentication/LdapAuthenticationProvider.html
+END
+LdapAuthenticator.html
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/ldap/authentication/LdapAuthenticator.html
+END
+SpringSecurityAuthenticationSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 205
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/ldap/authentication/SpringSecurityAuthenticationSource.html
+END

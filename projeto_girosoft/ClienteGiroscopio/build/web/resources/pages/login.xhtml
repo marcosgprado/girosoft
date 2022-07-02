@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<ui:composition template="/resources/templates/baseTemplate.xhtml"
+                xmlns:ui="http://java.sun.com/jsf/facelets"
+                xmlns:h="http://java.sun.com/jsf/html"
+                xmlns:a4j="http://richfaces.org/a4j"
+                xmlns:custom="http://libraries"
+                xmlns:f="http://java.sun.com/jsf/core">
+
+    <ui:define name="title">
+        <title>Login</title>
+    </ui:define>
+
+
+    <ui:define name="topMenu">
+        <h:form>
+            <ui:include src="/resources/menus/visitanteMenu.xhtml" />
+        </h:form>
+    </ui:define>
+
+
+
+
+
+    <ui:define name="content">
+<h:form>
+   <div id="login" align="center">
+		                 <br/>
+		                 <br/>
+		                 <br/>
+		                 <br/>
+     <h:outputText value="ACESSO"/>
+		                 <br/>
+		                 <br/>
+		                 <br/>
+		                 <br/>
+
+
+       <h:panelGrid columns="2">
+
+	                 <h:outputText value="Nome:"/>
+                         <h:inputText id="nome" value="#{login.nomeUsuario}" size="15"/>
+
+                         <h:outputText value="Senha:"/>
+                         <h:inputSecret id="senha" value="#{login.senhaUsuario}"  size="15"/>
+       </h:panelGrid>
+
+                                 <br/>
+
+                                 <a4j:commandButton value="Ok" action="#{login.logar}"  />
+
+                                  <br/>
+		                  <br/>
+		                  <br/>
+		                  <br/>
+                                  <br/>
+		                  <br/>
+		                  <br/>
+		                  <br/>
+   </div>
+</h:form>
+
+</ui:define>
+    
+</ui:composition>

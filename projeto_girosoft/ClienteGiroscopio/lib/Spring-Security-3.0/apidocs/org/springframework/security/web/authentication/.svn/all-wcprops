@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication
+END
+AuthenticationProcessingFilterEntryPoint.html
+K 25
+svn:wc:ra_dav:version-url
+V 210
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/AuthenticationProcessingFilterEntryPoint.html
+END
+NullRememberMeServices.html
+K 25
+svn:wc:ra_dav:version-url
+V 192
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/NullRememberMeServices.html
+END
+Http403ForbiddenEntryPoint.html
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/Http403ForbiddenEntryPoint.html
+END
+ExceptionMappingAuthenticationFailureHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 214
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/ExceptionMappingAuthenticationFailureHandler.html
+END
+SavedRequestAwareAuthenticationSuccessHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/SavedRequestAwareAuthenticationSuccessHandler.html
+END
+AuthenticationProcessingFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/AuthenticationProcessingFilter.html
+END
+SimpleUrlAuthenticationFailureHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/SimpleUrlAuthenticationFailureHandler.html
+END
+WebAuthenticationDetails.html
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/WebAuthenticationDetails.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 183
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/package-frame.html
+END
+RememberMeServices.html
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/RememberMeServices.html
+END
+AuthenticationFailureHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/AuthenticationFailureHandler.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 185
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/package-summary.html
+END
+LoginUrlAuthenticationEntryPoint.html
+K 25
+svn:wc:ra_dav:version-url
+V 202
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/LoginUrlAuthenticationEntryPoint.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 182
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/package-tree.html
+END
+AnonymousAuthenticationFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 199
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/AnonymousAuthenticationFilter.html
+END
+DelegatingAuthenticationEntryPoint.html
+K 25
+svn:wc:ra_dav:version-url
+V 204
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/DelegatingAuthenticationEntryPoint.html
+END
+SimpleUrlAuthenticationSuccessHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 207
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/SimpleUrlAuthenticationSuccessHandler.html
+END
+AbstractAuthenticationTargetUrlRequestHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 215
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/AbstractAuthenticationTargetUrlRequestHandler.html
+END
+WebAuthenticationDetailsSource.html
+K 25
+svn:wc:ra_dav:version-url
+V 200
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/WebAuthenticationDetailsSource.html
+END
+AuthenticationSuccessHandler.html
+K 25
+svn:wc:ra_dav:version-url
+V 198
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/AuthenticationSuccessHandler.html
+END
+AbstractProcessingFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 194
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/AbstractProcessingFilter.html
+END
+AbstractAuthenticationProcessingFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 208
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/AbstractAuthenticationProcessingFilter.html
+END
+UsernamePasswordAuthenticationFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 206
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/UsernamePasswordAuthenticationFilter.html
+END

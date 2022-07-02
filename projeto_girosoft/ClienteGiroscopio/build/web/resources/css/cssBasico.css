@@ -1,0 +1,22 @@
+/* 
+    Document   : cssBasico
+    Created on : 18/12/2010, 14:20:56
+    Author     : marcos
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+
+.dadosExperimento{
+    background-color: #dddddd;
+    padding: 5px;
+    margin: 15px 0px;
+}

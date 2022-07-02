@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/preauth
+END
+AbstractPreAuthenticatedProcessingFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 218
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/preauth/AbstractPreAuthenticatedProcessingFilter.html
+END
+PreAuthenticatedCredentialsNotFoundException.html
+K 25
+svn:wc:ra_dav:version-url
+V 222
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/preauth/PreAuthenticatedCredentialsNotFoundException.html
+END
+PreAuthenticatedGrantedAuthoritiesWebAuthenticationDetails.html
+K 25
+svn:wc:ra_dav:version-url
+V 236
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/preauth/PreAuthenticatedGrantedAuthoritiesWebAuthenticationDetails.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 191
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/preauth/package-frame.html
+END
+PreAuthenticatedAuthenticationProvider.html
+K 25
+svn:wc:ra_dav:version-url
+V 216
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/preauth/PreAuthenticatedAuthenticationProvider.html
+END
+PreAuthenticatedGrantedAuthoritiesAuthenticationDetails.html
+K 25
+svn:wc:ra_dav:version-url
+V 233
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/preauth/PreAuthenticatedGrantedAuthoritiesAuthenticationDetails.html
+END
+PreAuthenticatedGrantedAuthoritiesUserDetailsService.html
+K 25
+svn:wc:ra_dav:version-url
+V 230
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/preauth/PreAuthenticatedGrantedAuthoritiesUserDetailsService.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 193
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/preauth/package-summary.html
+END
+RequestHeaderAuthenticationFilter.html
+K 25
+svn:wc:ra_dav:version-url
+V 211
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/preauth/RequestHeaderAuthenticationFilter.html
+END
+PreAuthenticatedProcessingFilterEntryPoint.html
+K 25
+svn:wc:ra_dav:version-url
+V 220
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/preauth/PreAuthenticatedProcessingFilterEntryPoint.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 190
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/preauth/package-tree.html
+END
+PreAuthenticatedAuthenticationToken.html
+K 25
+svn:wc:ra_dav:version-url
+V 213
+/svn/!svn/ver/1678/atividades_administrativas/fontes/trunk/AtividadesAdministrativas/lib/Spring-Security-3.0/apidocs/org/springframework/security/web/authentication/preauth/PreAuthenticatedAuthenticationToken.html
+END

@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!-- =========== FULL CONFIGURATION FILE ================================== -->
+
+<faces-config version="1.2" 
+    xmlns="http://java.sun.com/xml/ns/javaee" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+    xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-facesconfig_1_2.xsd">
+
+<!-- Gerencia o Experimento  -->
+    <managed-bean>
+        <managed-bean-name>experimentoManagedBean</managed-bean-name>
+        <managed-bean-class>br.uesb.giroscopio.view.jsf.managedBean.ExperimentoManagedBean</managed-bean-class>
+        <managed-bean-scope>session</managed-bean-scope>
+        <managed-property>
+            <property-name>executaExperimento</property-name>
+            <value>#{execExperimentoCliente}</value>
+        </managed-property>
+    </managed-bean>
+
+
+
+    <managed-bean>
+        <managed-bean-name>login</managed-bean-name>
+        <managed-bean-class>br.uesb.giroscopio.view.jsf.managedBean.LoginBean</managed-bean-class>
+        <managed-bean-scope>session</managed-bean-scope>
+        <managed-property>
+            <property-name>usuarioService</property-name>
+            <value>#{usuarioService}</value>
+        </managed-property>
+
+    </managed-bean>
+
+
+
+    <managed-bean>
+        <managed-bean-name>usuarioBean</managed-bean-name>
+        <managed-bean-class>br.uesb.giroscopio.view.jsf.managedBean.UsuarioManagedBean</managed-bean-class>
+        <managed-bean-scope>session</managed-bean-scope>
+        <managed-property>
+            <property-name>usuarioService</property-name>
+            <value>#{usuarioService}</value>
+        </managed-property>
+    </managed-bean>
+
+<!--
+<managed-bean>
+ <managed-bean-name>experimento</managed-bean-name>
+ <managed-bean-class>
+ 	br.uesb.giroscopio.view.jsf.beans.ExperimentoManagedBean
+ </managed-bean-class>
+ <managed-bean-scope>session</managed-bean-scope>
+</managed-bean>
+-->
+
+
+<!-- Gerencia a Execucao do Experimento
+<managed-bean>
+ <managed-bean-name>executarExperimento</managed-bean-name>
+ <managed-bean-class>br.uesb.giroscopio.bussiness.services.ExecutaExperimentoImpl</managed-bean-class>
+
+ <managed-bean-scope>session</managed-bean-scope></managed-bean>
+ -->
+
+
+
+
+<!-- Navegação de qualquer lugar da administração -->
+
+
+    <navigation-rule>
+
+        <from-view-id>/resources/pages/admin/*</from-view-id>
+
+        <navigation-case>
+            <from-outcome>homeAdmin</from-outcome>
+            <to-view-id>/resources/pages/admin/homeAdmin.xhtml</to-view-id>
+        </navigation-case>
+
+        <navigation-case>
+            <from-outcome>teoriaAdmin</from-outcome>
+            <to-view-id>/resources/pages/admin/teoriaAdmin.xhtml</to-view-id>
+        </navigation-case>
+
+        <navigation-case>
+            <from-outcome>experimentoAdmin</from-outcome>
+            <to-view-id>/resources/pages/admin/experimentoAdmin.xhtml</to-view-id>
+        </navigation-case>
+
+        <navigation-case>
+            <from-outcome>crudUsuario</from-outcome>
+            <to-view-id>/resources/pages/admin/crudUsuario.xhtml</to-view-id>
+        </navigation-case>
+
+        <navigation-case>
+            <from-outcome>usuarioSalvo</from-outcome>
+            <to-view-id>/resources/pages/admin/crudUsuario.xhtml</to-view-id>
+        </navigation-case>
+
+        <navigation-case>
+            <from-outcome>sobre</from-outcome>
+            <to-view-id>/resources/pages/admin/sobreAdmin.xhtml</to-view-id>
+        </navigation-case>
+    </navigation-rule>
+
+
+
+
+<!-- Navegação de qualquer lugar de usuario -->
+
+    <navigation-rule>
+
+        <from-view-id>/resources/pages/usuario/*</from-view-id>
+        <navigation-case>
+            <from-outcome>homeUsuario</from-outcome>
+            <to-view-id>/resources/pages/usuario/homeUsuario.xhtml</to-view-id>
+        </navigation-case>
+        <navigation-case>
+            <from-outcome>teoriaUsuario</from-outcome>
+            <to-view-id>/resources/pages/usuario/teoriaUsuario.xhtm</to-view-id>
+        </navigation-case>
+        <navigation-case>
+            <from-outcome>experimentoUsuario</from-outcome>
+            <to-view-id>/resources/pages/usuario/experimentoUsuario.xhtml</to-view-id>
+        </navigation-case>
+
+        <navigation-case>
+            <from-outcome>sobre</from-outcome>
+            <to-view-id>/resources/pages/usuario/sobreUsuario.xhtml</to-view-id>
+        </navigation-case>
+    </navigation-rule>
+
+
+ <!-- Navegação de qualquer lugar -->
+
+    <navigation-rule>
+
+        <from-view-id>/resources/pages/*</from-view-id>
+        <navigation-case>
+            <from-outcome>homeVisit</from-outcome>
+            <to-view-id>/resources/pages/visitante/homeVisit.xhtml</to-view-id>
+        </navigation-case>
+        <navigation-case>
+            <from-outcome>sair</from-outcome>
+            <to-view-id>/resources/pages/visitante/homeVisit.xhtml</to-view-id>
+        </navigation-case>
+        <navigation-case>
+            <from-outcome>teoriaVisit</from-outcome>
+            <to-view-id>/resources/pages/visitante/teoriaVisit.xhtml</to-view-id>
+        </navigation-case>
+
+        <navigation-case>
+            <from-outcome>login</from-outcome>
+            <to-view-id>/resources/pages/login.xhtml</to-view-id>
+        </navigation-case>
+
+        <navigation-case>
+            <from-outcome>sobre</from-outcome>
+            <to-view-id>/resources/pages/visitante/sobreVisitante.xhtml</to-view-id>
+        </navigation-case>
+
+        <navigation-case>
+            <from-outcome>homeUsuario</from-outcome>
+            <to-view-id>/resources/pages/usuario/homeUsuario.xhtml</to-view-id>
+        </navigation-case>
+
+        <navigation-case>
+            <from-outcome>homeAdmin</from-outcome>
+            <to-view-id>/resources/pages/admin/homeAdmin.xhtml</to-view-id>
+        </navigation-case>
+
+        <navigation-case>
+            <from-outcome>relatorio</from-outcome>
+            <to-view-id>/resources/pages/relatorio.xhtml</to-view-id>
+        </navigation-case>
+    </navigation-rule>
+
+
+
+
+ 
+
+
+
+    <application>
+        <navigation-handler>org.richfaces.ui.application.StateNavigationHandler</navigation-handler>
+        <el-resolver>org.richfaces.el.StateELResolver</el-resolver>
+        <view-handler>
+            com.sun.facelets.FaceletViewHandler
+        </view-handler>
+        <variable-resolver>
+            org.springframework.web.jsf.DelegatingVariableResolver
+        </variable-resolver>
+        <locale-config>
+            <default-locale>pt_BR</default-locale>
+        </locale-config>
+    </application>
+
+
+</faces-config>
+
+

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<ui:composition template="/resources/templates/baseTemplate.xhtml"
+                xmlns:ui="http://java.sun.com/jsf/facelets"
+                xmlns:h="http://java.sun.com/jsf/html"
+                xmlns:a4j="http://richfaces.org/a4j"
+                xmlns:custom="http://libraries"
+                xmlns:f="http://java.sun.com/jsf/core">
+
+    <ui:define name="title">
+        <title>CRUD</title>
+    </ui:define>
+
+    <ui:define name="topMenu">
+        <h:form>
+            <ui:include src="/resources/menus/adminMenu.xhtml" />
+        </h:form>
+    </ui:define>
+
+
+
+
+
+            <ui:define name="content">
+<h:form>
+   <div id="crudUser">
+
+		                  <br/>
+
+                          <h:panelGrid>
+                              <f:facet name="header"> <h2>Cadastro de Usuários</h2></f:facet>
+
+                         </h:panelGrid>
+                                  
+
+		                  <br/>
+		                  <br/>
+
+                                  
+       <h:panelGrid columns="2">
+
+
+	                 <h:outputText value="Nome Completo:"/>
+                         <h:inputText id="nome" value="#{usuarioBean.usuario.nome}" size="70"/>
+
+                         <h:outputText value="Email:"/>
+                         <h:inputText id="email" value="#{usuarioBean.usuario.email}"  size="70"/>
+
+                         <h:outputText value="Instituição:"/>
+                         <h:inputText id="instituicao" value="#{usuarioBean.usuario.instituicao}" size="70"/>
+
+                         <h:outputText value="Login:"/>
+                         <h:inputText id="login" value="#{usuarioBean.usuario.login}"  size="50"/>
+
+                         <h:outputText value="Senha:"/>
+                         <h:inputSecret id="senha" value="#{usuarioBean.usuario.senha}"  size="50"/>
+
+                         <h:outputText value="Administrador:"/>
+                         <h:selectBooleanCheckbox value="#{usuarioBean.usuario.administrador}" />
+       </h:panelGrid>
+
+                                 <br/>
+
+                                 <a4j:commandButton value="Salvar" action="#{usuarioBean.salvar}"  />
+
+                                  <br/>
+		                  <br/>
+		                  <br/>
+		                  <br/>
+   </div>
+</h:form>
+
+</ui:define>
+
+
+</ui:composition>
